@@ -8,4 +8,4 @@ python test_token.py
 
 ```
 
-- What`s going wrong with resulting `{"error": "invalid_client"}`? The client secret is saved before auto hashed.
+- What is going wrong with resulting `{"error": "invalid_client"}`? The client secret is saved before auto hashed.
